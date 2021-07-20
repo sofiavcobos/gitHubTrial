@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  cityGirls
+//  cameraDisplayPhoto
 //
-//  Created by Sofia Cobos on 7/19/21.
+//  Created by Sofia Cobos on 7/20/21.
 //
 
 import UIKit
@@ -14,6 +14,6 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-//helllllooooooo
+
 }
 
